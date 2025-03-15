@@ -8,3 +8,7 @@ Machine Learning Files
 # Assignment 2
 - ML-Assignment 2 - EDA & Preprocessing.ipynb
 - Dataset Uploaded
+
+# Assignment 3
+- ML-Assignment 3 -Regression.ipynb
+- CSV File Uploaded
