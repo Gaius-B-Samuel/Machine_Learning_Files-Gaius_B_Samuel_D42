@@ -10,11 +10,15 @@ Machine Learning Files
 - Dataset Uploaded
 
 # Assignment 3
-- ML-Assignment 3 -Regression.ipynb
+- ML-Assignment 3 - Regression.ipynb
 - CSV File Uploaded
 
 # Assignment 4
--  ML-Assignment 4 -Classification Problem.ipynb
+-  ML-Assignment 4 - Classification Problem.ipynb
 -  ML-Assignment-4: Breast Cancer Classification
 - Results
 - Identified the best-performing and worst-performing models.
+
+# Assignment 5
+- ML-Assignment 5 - Clustering Algorithm.ipynb
+- We applied two clustering algorithms—KMeans Clustering and Hierarchical Clustering—to the Iris dataset.
